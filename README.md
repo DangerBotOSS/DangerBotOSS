@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DangerBotOSS
+- 👀 I’m interested in commenting on PRs
+- 🌱 I’m currently learning how to give good feedback
+- 📫 How to reach me via a message to @orta
